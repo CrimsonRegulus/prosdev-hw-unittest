@@ -30,3 +30,4 @@ D | Did not Meet Expectation | 74.99 and below
 
 ## Results
 *TODO: Insert screenshot of the results from the command line*
+![Results](https://github.com/CrimsonRegulus/prosdev-hw-unittest/blob/master/Results.png?raw=true)
